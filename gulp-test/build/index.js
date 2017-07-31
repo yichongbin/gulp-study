@@ -1,0 +1,1 @@
+!function(n){!function(n,i){var o=n+i;alert(o)}(100,99)}(window);

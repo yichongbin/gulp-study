@@ -1,0 +1,1 @@
+function min(){alert("I love you!")}
